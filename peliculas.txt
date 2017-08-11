@@ -1,0 +1,7 @@
+lista de mis peliculas favoritas
+[]titanic
+[]transformes
+[]game of trones
+[]scorpion
+[]house of cars
+
