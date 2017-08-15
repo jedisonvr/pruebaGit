@@ -1,4 +1,7 @@
 lista de canciones
-[]crazy
-[]november rain
-[]ich will
+[x]azy
+[x]november rain
+[x]ich will
+[x]mambo rock
+[x]el negrito de la salsa
+
