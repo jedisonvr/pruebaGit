@@ -4,4 +4,6 @@ lista de mis peliculas favoritas
 [x]game of trones
 [x]scorpion
 [x]house of cards
+[x]avengers
+[x]rapido y furioso 8
 
