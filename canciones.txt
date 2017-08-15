@@ -4,4 +4,6 @@ lista de canciones
 [x]ich will
 [x]mambo rock
 [x]el negrito de la salsa
-
+[x]cama y mesa
+[x]el periodico de ayer
+[x]timbalero
