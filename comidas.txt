@@ -2,4 +2,5 @@
 [x]pizza
 [x]lasagña
 [x]tomates a la mozarella
-
+[x]canelones
+[x]champiñones gratinados
